@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hello.itemservice.domain.item.ItemRepositoryTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-07-21T04:14:12" hostname="johyeonhwaui-MacBookPro.local" time="0.128">
+  <properties/>
+  <testcase name="findAll()" classname="hello.itemservice.domain.item.ItemRepositoryTest" time="0.117"/>
+  <testcase name="updateItem()" classname="hello.itemservice.domain.item.ItemRepositoryTest" time="0.007"/>
+  <testcase name="save()" classname="hello.itemservice.domain.item.ItemRepositoryTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
